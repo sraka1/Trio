@@ -27,7 +27,8 @@
 	url = https://github.com/loopandlearn/DanaKit
 [submodule "MedtrumKit"]
 	path = MedtrumKit
-	url = https://github.com/loopandlearn/MedtrumKit
+	url = https://github.com/sraka1/MedtrumKit
+	branch = debug/session-token-tools
 [submodule "OmnipodKit"]
 	path = OmnipodKit
 	url = https://github.com/loopandlearn/OmnipodKit
